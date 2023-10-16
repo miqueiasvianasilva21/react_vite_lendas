@@ -41,7 +41,7 @@ const AppRoutes = () => {
             <Routes>
               <Route path="*" element={<Navigate to="/login" />} />
 
-              <Route path="/login" element={<Login />} />
+              <Route path="/react_vite_lendas/login" element={<Login />} />
 
               <Route path="/signup" element={<Signup />} />
 
