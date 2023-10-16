@@ -1,4 +1,4 @@
-import{j as a,L as s}from"./index-b8209a64.js";const o=e=>{const r=new DOMParser().parseFromString(e,"text/html");return a.jsx("div",{className:"text-justify",dangerouslySetInnerHTML:{__html:r.body.innerHTML}},"content")},t=`
+import{j as a,L as s}from"./index-85a749a5.js";const o=e=>{const r=new DOMParser().parseFromString(e,"text/html");return a.jsx("div",{className:"text-justify",dangerouslySetInnerHTML:{__html:r.body.innerHTML}},"content")},t=`
   <p>
     Há muito tempo, <b>nas profundezas da selva amazônica</b>, viveu uma mulher misteriosa conhecida como "A Mulher da Floresta." Ela era uma guardiã da natureza, com olhos profundos que pareciam ver o futuro e um coração ligado à alma da floresta.
   </p>
